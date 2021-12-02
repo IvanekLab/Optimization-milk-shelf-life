@@ -5,7 +5,7 @@ Paper: Optimizing pasteurized fluid milk shelf-life through microbial spoilage r
 
 Authors: Forough Enayaty-Ahangar (corresponding author), Sarah Murphy, Nicole Martin, Martin Wiedmann, and Renata Ivanek
 
-This paper was accepted by the Frontiers journal (research topic: Food Storage, Spoilage and Shelf Life: Recent Developments and Insights) in April 2021.
+This paper was published in the Frontiers journal (Front. Sustain. Food Syst., 08 July 2021 | https://doi.org/10.3389/fsufs.2021.670029 ).
 
 There are two Python codes in this folder for the two optimization models:  
 
